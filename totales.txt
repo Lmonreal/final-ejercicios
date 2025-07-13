@@ -1,0 +1,3 @@
+comida: $225.75
+transporte: $110.0
+ocio: $100.0

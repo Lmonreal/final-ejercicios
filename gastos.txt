@@ -1,0 +1,5 @@
+comida:150.50
+transporte:50.00
+comida:75.25
+ocio:100.00
+transporte:60.00
